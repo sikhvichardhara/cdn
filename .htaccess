@@ -1,0 +1,5 @@
+# disable directory listing
+Options +Indexes
+
+# show a custom message
+#ErrorDocument 403 "<div style='text-align:center;'><h1>Hello Folks</h1><b>this</b> is not a page you are looking for</div>"
